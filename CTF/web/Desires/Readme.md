@@ -99,6 +99,6 @@ So the exploitation steps are as follows:
     
     ![5.png](5.png)
 
-Here is the full exploit code: ![exploit.py](exploit.py)
+Here is the full exploit code: [Exploit.py](https://github.com/Q0120S/Write-Ups/edit/main/CTF/web/Desires/exploit.py)
 
-    ![exploit.png](exploit.png)
+![exploit.png](exploit.png)
